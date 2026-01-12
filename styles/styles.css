@@ -990,7 +990,7 @@ span.certificate-tag:hover {
 }
 
 .header .menu-icon .navicon-dark {
-    background: var(--textColorDar)k;
+    background: var(--textColorDar);
 }
 
 .header .menu-icon .navicon:before,
